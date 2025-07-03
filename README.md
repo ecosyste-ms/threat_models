@@ -45,7 +45,7 @@ Based on analysis of 583 threat model files from GitHub repositories, here are t
 
 ### Methodology Adoption
 
-**STRIDE Framework:**
+**[STRIDE](https://en.wikipedia.org/wiki/STRIDE_model) Framework:**
 - 84 explicit "STRIDE" heading references
 - Well-established categorization approach
 
